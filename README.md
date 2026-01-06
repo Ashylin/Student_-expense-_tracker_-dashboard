@@ -43,7 +43,7 @@ Project documentation
 ## Dashboard Screenshot
 
 ![Student Expense Tracker Dashboard]
-(dashboard.png)
+(dashboard.png.png)
 
 ## Dashboard Features
 
